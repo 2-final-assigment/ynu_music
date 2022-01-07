@@ -125,7 +125,7 @@ Flutter版本：2.8.1
 
 3.搜索页
 
-![image-20220107224818154]https://github.com/2-final-assigment/final-assigment-2/edit/master/readme-images/image-20220107224818154.png)
+![image-20220107224818154](https://github.com/2-final-assigment/final-assigment-2/edit/master/readme-images/image-20220107224818154.png?raw=true)
 
 4.结果页
 
