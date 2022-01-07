@@ -117,11 +117,11 @@ Flutter版本：2.8.1
 
 1.初始音乐列表
 
-![image-20220107224835342](E:\music_flutter\readme-images\image-20220107224835342.png)
+![image-20220107224835342](https://raw.githubusercontent.com/2-final-assigment/final-assigment-2/master/readme-images/image-20220107224835342.png)
 
 2.收藏页
 
-![image-20220107224915167](https://github.com/2-final-assigment/final-assigment-2/edit/master/readme-images/image-20220107224915167.png)
+![image-20220107224915167](https://raw.githubusercontent.com/2-final-assigment/final-assigment-2/master/readme-images/image-20220107224915167.png)
 
 3.搜索页
 
@@ -129,25 +129,25 @@ Flutter版本：2.8.1
 
 4.结果页
 
-![image-20220107224805987](E:\music_flutter\readme-images\image-20220107224805987.png)
+![image-20220107224805987](https://raw.githubusercontent.com/2-final-assigment/final-assigment-2/master/readme-images/image-20220107224805987.png)
 
 5.播放页
 
-![image-20220107224721659](E:\music_flutter\readme-images\image-20220107224721659.png)
+![image-20220107224721659](https://raw.githubusercontent.com/2-final-assigment/final-assigment-2/master/readme-images/image-20220107224721659.png)
 
 ###### 2.实机演示
 
 1.播放页
 
-![image-20220107230203065](E:\music_flutter\readme-images\image-20220107230203065.png)
+![image-20220107230203065](https://raw.githubusercontent.com/2-final-assigment/final-assigment-2/master/readme-images/image-20220107230203065.png)
 
 2.搜索结果页
 
-![image-20220107230240860](E:\music_flutter\readme-images\image-20220107230240860.png)
+![image-20220107230240860](https://raw.githubusercontent.com/2-final-assigment/final-assigment-2/master/readme-images/image-20220107230240860.png)
 
 3.搜索页
 
-![image-20220107230311934](E:\music_flutter\readme-images\image-20220107230311934.png)
+![image-20220107230311934](https://raw.githubusercontent.com/2-final-assigment/final-assigment-2/master/readme-images/image-20220107230311934.png)
 
 4.默认列表
 
@@ -155,4 +155,4 @@ Flutter版本：2.8.1
 
 5.收藏页
 
-![image-20220107230355794](E:\music_flutter\readme-images\image-20220107230355794.png)
+![image-20220107230355794](https://raw.githubusercontent.com/2-final-assigment/final-assigment-2/master/readme-images/image-20220107230355794.png)
