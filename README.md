@@ -9,7 +9,7 @@ Flutter版本：2.8.1
 虚拟机:适用于AndroidM的Windows子系统 v1.8.32828.0
 
 实机环境:vivo z1i
-
+1
 ##### 	搭建Nodejs Api过程：
 
 1. fork [此项目](https://github.com/Binaryify/NeteaseCloudMusicApi)
@@ -117,42 +117,42 @@ Flutter版本：2.8.1
 
 1.初始音乐列表
 
-![image-20220107224835342](C:\Users\Li Shangli\AppData\Roaming\Typora\typora-user-images\image-20220107224835342.png)
+![image-20220107224835342](E:\music_flutter\readme-images\image-20220107224835342.png)
 
 2.收藏页
 
-![image-20220107224915167](C:\Users\Li Shangli\AppData\Roaming\Typora\typora-user-images\image-20220107224915167.png)
+![image-20220107224915167](https://github.com/2-final-assigment/final-assigment-2/edit/master/readme-images/image-20220107224915167.png)
 
 3.搜索页
 
-![image-20220107224818154](C:\Users\Li Shangli\AppData\Roaming\Typora\typora-user-images\image-20220107224818154.png)
+![image-20220107224818154]https://github.com/2-final-assigment/final-assigment-2/edit/master/readme-images/image-20220107224818154.png)
 
 4.结果页
 
-![image-20220107224805987](C:\Users\Li Shangli\AppData\Roaming\Typora\typora-user-images\image-20220107224805987.png)
+![image-20220107224805987](E:\music_flutter\readme-images\image-20220107224805987.png)
 
 5.播放页
 
-![image-20220107224721659](C:\Users\Li Shangli\AppData\Roaming\Typora\typora-user-images\image-20220107224721659.png)
+![image-20220107224721659](E:\music_flutter\readme-images\image-20220107224721659.png)
 
 ###### 2.实机演示
 
 1.播放页
 
-![image-20220107230203065](C:\Users\Li Shangli\AppData\Roaming\Typora\typora-user-images\image-20220107230203065.png)
+![image-20220107230203065](E:\music_flutter\readme-images\image-20220107230203065.png)
 
 2.搜索结果页
 
-![image-20220107230240860](C:\Users\Li Shangli\AppData\Roaming\Typora\typora-user-images\image-20220107230240860.png)
+![image-20220107230240860](E:\music_flutter\readme-images\image-20220107230240860.png)
 
 3.搜索页
 
-![image-20220107230311934](C:\Users\Li Shangli\AppData\Roaming\Typora\typora-user-images\image-20220107230311934.png)
+![image-20220107230311934](E:\music_flutter\readme-images\image-20220107230311934.png)
 
 4.默认列表
 
-![image-20220107230337385](C:\Users\Li Shangli\AppData\Roaming\Typora\typora-user-images\image-20220107230337385.png)
+![image-20220107230337385](E:\music_flutter\readme-images\image-20220107230337385.png)
 
 5.收藏页
 
-![image-20220107230355794](C:\Users\Li Shangli\AppData\Roaming\Typora\typora-user-images\image-20220107230355794.png)
+![image-20220107230355794](E:\music_flutter\readme-images\image-20220107230355794.png)
