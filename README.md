@@ -151,7 +151,7 @@ Flutter版本：2.8.1
 
 4.默认列表
 
-![image-20220107230337385](E:\music_flutter\readme-images\image-20220107230337385.png)
+![image-20220107230337385](https://raw.githubusercontent.com/2-final-assigment/final-assigment-2/master/readme-images/image-20220107230337385.png)
 
 5.收藏页
 
