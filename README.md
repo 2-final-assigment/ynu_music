@@ -118,13 +118,15 @@ Flutter版本：2.8.1
 - 定义一个 GlobalKey 传给子组件作为key，key.currentState.function();
 - 将子组件p作为实例属性，p里定义函数fn，pState 里给 widget.fn 赋值，父组件里就可以直接 p.fn();
 
-### 三.编译说明
+### 四.编译说明
 
 1.利用`flutter get packages`获取相关库,需要科学上网且需将设置命令行为https_proxy、http_proxy代理。
 
 2.利用flutter run即可运行
+### 相关密码
+doc中的report的密码是云南大学的拼音
 
-### 四.运行截图
+### 五.运行截图
 
 1.初始音乐列表
 
