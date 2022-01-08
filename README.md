@@ -19,6 +19,17 @@ Flutter版本：2.8.1
 5. 直接点`Continue`
 6. `PROJECT NAME`自己填,`FRAMEWORK PRESET` 选 `Other` 然后直接点 `Deploy` 接着等部署完成即可
 
+虚拟机搭建参照网上教程：[win11安装安卓子系统](https://blog.csdn.net/Lloveyy/article/details/121083125?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-1.queryctr&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-1.queryctr&utm_relevant_index=2)
+
+真机测试：1.关于手机-->连续点击软件版本号开启开发者模式-->进入开发者选项打开USB调试
+
+2.用USB连接电脑和手机。连接成功后vscode下方devices显示手机型号
+
+3.flutter run运行项目
+
+4.真机下对项目进行调试
+
+
 ## 二.App功能
 
 实现在线音乐播放器，利用网易云Api进行在线搜索听歌和收藏音乐。
