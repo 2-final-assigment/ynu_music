@@ -123,10 +123,8 @@ Flutter版本：2.8.1
 1.利用`flutter get packages`获取相关库,需要科学上网且需将设置命令行为https_proxy、http_proxy代理。
 
 2.利用flutter run即可运行
-### 五.相关密码
-doc中的report的密码是云南大学的拼音
 
-### 六.运行截图
+### 五.运行截图
 
 1.初始音乐列表
 
